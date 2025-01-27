@@ -143,7 +143,7 @@
           <mxGeometry x="38" y="481" width="107" height="59" as="geometry" />
         </mxCell>
         <mxCell id="rFZ8cYNIzKvwaZD5PEDH-132" value="Tworzenie wpisów śledzenia progresu" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rFZ8cYNIzKvwaZD5PEDH-17" vertex="1">
-          <mxGeometry x="5" y="552" width="141" height="61" as="geometry" />
+          <mxGeometry x="21" y="551" width="141" height="61" as="geometry" />
         </mxCell>
         <mxCell id="rFZ8cYNIzKvwaZD5PEDH-133" value="Przeglądanie własnego profilu" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rFZ8cYNIzKvwaZD5PEDH-17" vertex="1">
           <mxGeometry x="38" y="633" width="107" height="57" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="324" y="652" width="97.75" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rFZ8cYNIzKvwaZD5PEDH-140" value="Przeglądanie profili innych użytkowników" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rFZ8cYNIzKvwaZD5PEDH-17" vertex="1">
-          <mxGeometry x="8.5" y="703" width="137.5" height="77" as="geometry" />
+          <mxGeometry x="22.75" y="703" width="137.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="rFZ8cYNIzKvwaZD5PEDH-142" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" parent="rFZ8cYNIzKvwaZD5PEDH-17" source="rFZ8cYNIzKvwaZD5PEDH-141" target="rFZ8cYNIzKvwaZD5PEDH-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -176,10 +176,10 @@
           <mxGeometry x="252.75" y="716.5" width="86.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rFZ8cYNIzKvwaZD5PEDH-143" value="Przeglądanie analizy danych wagowych" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rFZ8cYNIzKvwaZD5PEDH-17" vertex="1">
-          <mxGeometry x="8.5" y="788" width="137.5" height="77" as="geometry" />
+          <mxGeometry x="22.75" y="788" width="137.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="rFZ8cYNIzKvwaZD5PEDH-144" value="Zgłaszanie postów innych użytkowników" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rFZ8cYNIzKvwaZD5PEDH-17" vertex="1">
-          <mxGeometry x="8.5" y="873" width="137.5" height="77" as="geometry" />
+          <mxGeometry x="22.75" y="873" width="137.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="rFZ8cYNIzKvwaZD5PEDH-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="rFZ8cYNIzKvwaZD5PEDH-4" target="rFZ8cYNIzKvwaZD5PEDH-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
